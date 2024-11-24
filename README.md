@@ -1,37 +1,28 @@
-# React Image Compressor
+React Image Compressor
+Overview
+The React Image Compressor is a simple, browser-based tool built with React and browser-image compression. It helps compress images efficiently while maintaining ease of use.
 
-## Overview
+Features
+Image Compression: Adjusts resolution and reduces file size for optimized storage.
+Offline Support: Fully functional without requiring an internet connection.
+Built Using
+ReactJS for building the user interface.
+React Bootstrap for responsive and accessible styling.
+Browser Image Compression for managing image optimization.
+How to Set Up
+Clone the repository and navigate into the project folder:
 
-A simple image compressor built with [react](https://reactjs.org/) and [browser-image-compression](https://www.npmjs.com/package/browser-image-compression).
+bash
+Copy code
+git clone https://github.com/RaulB-masai/react-image-compressor.git  
+cd react-image-compressor  
+Install the required dependencies:
 
-## Functionalities
+bash
+Copy code
+npm install  
+Launch the app on your local machine:
 
-- Compress Image By Reducing Resolution and Size
-- Offline Compression
-
-## Built With
-
-- ReactJS
-- React Bootstrap
-- Browser Image Compression
-
-## Development
-
-1. Clone the repository and change directory.
-
-```
-git clone https://github.com/RaulB-masai/react-image-compressor.git
-cd react-image-compressor
-```
-
-2. Install npm dependencies
-
-```
-npm install
-```
-
-3. Run the app locally.
-
-```
-npm start
-```
+bash
+Copy code
+npm start  
